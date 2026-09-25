@@ -113,7 +113,7 @@ Table of content:
   }
 
   body {
-      background: #ffffff;
+      background: red;
       color: #888888;
       font-family: "Roboto", sans-serif;
       font-size: 16px;
@@ -145,7 +145,7 @@ Table of content:
   h4,
   h5,
   h6 {
-      color: #000000;
+      color: blue;
       font-family: "Oswald", sans-serif;
       font-weight: bold;
       margin: 0 0 1em;
